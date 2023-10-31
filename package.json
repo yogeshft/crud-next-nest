@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Backend code using Nest.js and MongoDB",
   "main": "app.js",
+  "engines": {
+    "node": ">=18.18.2"
+  },
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
